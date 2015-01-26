@@ -7,11 +7,13 @@ Popular items may become basis for future longform posts or talks.
 
 ## Questions, comments, concerns, suggestions
 
-Please do the one of following:
+Firstly, thank you! Please do the one of following:
 
-1. Publicly Tweet reply to me [@grungerabbit](https://twitter.com/grungerabbit) with your `?` / `!` / `#@$%*` / `...`
+1. Publicly Tweet reply to me ([@grungerabbit](https://twitter.com/grungerabbit)) with your `?` / `!` / `#@$%*` / `...`
 2. Send a Github issue on this repository.
 3. Send a pull request on this repository, with comments.
+
+I will not respond to emails (or other unsolicited, personal/private correspondence) about any `meta` posts.
 
 ----
 
