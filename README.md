@@ -1,2 +1,18 @@
 # meta
-Logging and vetting public, partially formed-thoughts.
+Logging and vetting public, partially-formed thoughts. These thoughts are more long-lasting and thoughtful than tweets, and less so than blog posts.
+
+Popular items may become basis for future longform posts or talks.
+
+---
+
+## Questions, comments, concerns, suggestions
+
+Please do the one of following:
+
+1. Publicly Tweet reply to me [@grungerabbit](https://twitter.com/grungerabbit) with your `?` / `!` / `#@$%*` / `...`
+2. Send a Github issue on this repository.
+3. Send a pull request on this repository, with comments.
+
+----
+
+By [Cheryl Wu](http://www.grungerabbit.com). Thoughts do not reflect the opinion of any organization or person I am associated with, unless they sent a pull request.
