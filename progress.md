@@ -24,6 +24,7 @@ Keeping track of my work and projects, voluntary or otherwise. Last updated Oct 
 
 ### Days of Future Past
 
+- Ensoleilée
 - SoDown
 - Ravie
 - Aureum
